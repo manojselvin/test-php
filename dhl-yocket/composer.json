@@ -1,0 +1,24 @@
+{
+    "name": "test-php/dhl-yocket",
+    "description": "Test dhl composer",
+    "keywords": ["test-template", "composer", "dhl-package"],
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Manoj Selvin",
+            "email": "manojselvin@gmail.com"
+        }
+    ],
+    "type": "library",
+    "require": {
+		"php": ">=7.0"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "test-php\\dhl-yocket\\": "src/"
+        }
+    }
+}
