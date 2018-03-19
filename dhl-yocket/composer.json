@@ -1,5 +1,5 @@
 {
-    "name": "test-php/dhl-yocket",
+    "name": "test/dhl-yocket",
     "description": "Test dhl composer",
     "keywords": ["test-template", "composer", "dhl-package"],
     "license": "DBAD",
